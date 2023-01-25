@@ -8,6 +8,7 @@ public class TestCommit {
 			System.out.println(i);
 			int j=10;
 			System.out.println(j);
+			String s="rk";
 		}
 
 	}
